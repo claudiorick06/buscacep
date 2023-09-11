@@ -1,0 +1,19 @@
+
+“
+java:S1130
+"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78±ÍÌŸ¨1
+@	java:S106"+Replace this use of System.out by a logger.(Îñë
+@	java:S106"+Replace this use of System.out by a logger.(Îñë
+@	java:S106"+Replace this use of System.out by a logger.(Îñë
+E	java:S106!"+Replace this use of System.out by a logger.(ˆ³ö±úÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(Å–Ü…ùÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(½¬³üÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(´èÌöüÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+@	java:S1066"+Replace this use of System.out by a logger.(ò½ž½
+E	java:S106="+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(Å–Ü…ùÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
